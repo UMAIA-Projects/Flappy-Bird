@@ -1,4 +1,4 @@
-# Relatório Flappy Bird
+# Relatório Flappy Bird 
 
 ## 1. Membros do grupo
 
@@ -45,8 +45,8 @@ Este jogo é baseado no jogo Flappy Bird. Basicamente o objetivo é passar o mai
 ```java
 public class App {
     public static void main(String[] args) {
-        Game game = new Game();  // Cria instância principal do jogo
-        game.run();              // Inicia loop principal
+        Game game = new Game();  // Cria instância principal do jogo 
+        game.run();              // Inicia loop principal 
     }
 }
 ```
