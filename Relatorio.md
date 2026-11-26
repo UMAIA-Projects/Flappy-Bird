@@ -369,7 +369,7 @@ public class Pipe extends GameComplements implements Scoring {
 }
 ```
 
-**Código em Scoring.java (Interface):**
+**Código em Scoring.java - Interface:**
 ```java
 public interface Scoring {
     boolean isScored();
@@ -529,7 +529,7 @@ public void draw() throws IOException {
 }
 ```
 
-### 4.3 Sistema de Renderização (game drawing)
+### 4.3 Sistema de Renderização - Game Drawing
 
 - **Sprites ASCII**: Pássaro e elementos do jogo renderizados com caracteres ASCII
 - **Background do bird dinâmico**: adapta-se ao ambiente (pipes, céu, paredes)
