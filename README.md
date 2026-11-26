@@ -10,7 +10,7 @@ Este jogo é baseado no jogo *Flappy Bird*. Basicamente o objetivo é passar o m
 **Física**: simulada com gravidade e velocidade (voo e queda)  
 **Pontuação**: 1 ponto por cada pipe ultrapassado com sucesso  
 **Best Score**: Sistema de persistência que guarda a melhor pontuação  
->O jogo foi feito na versão Amazon Corretto 1.8 no IntelliJ.  
+>O jogo foi feito na versão Amazon Corretto 1.8 no IntelliJ
   
 **Seguem-se algumas screenshots do jogo:**  
 
